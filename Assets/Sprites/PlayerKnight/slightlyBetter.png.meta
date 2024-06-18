@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: f42cb53692fe654408df0938c3b33bd2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slightlyBetter_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 134
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1348402475a18c24384f65b0717f68d7
+      internalID: -1176393670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 135
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6974ea61d71db940a73dd514dea9259
+      internalID: 1078426497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54766648ee5cf045b8c4f5557c238cb
+      internalID: 1838806781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 135
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba134ac5fb75dd4696d3f52cdb8066e
+      internalID: 1556949721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 135
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abedcda8a77613443b79dd0ddc2d3af3
+      internalID: 135060306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 135
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bd7790d3382c8449f319fccdd25f8d
+      internalID: 1279499049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 135
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabfe2bec2603864ba569b8c08eae027
+      internalID: 458244354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 135
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d849504d477381d42bb822da39bbf3f8
+      internalID: -1143567716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 135
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0110313b0f5c91f42859d94e46cc134f
+      internalID: 1970152670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 135
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a4b11aa667a794f9fe94dda993e8c4
+      internalID: 1192575548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 91
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c25d1844a5b720488e6a11d11052a3c
+      internalID: 2077972905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 91
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e33afa285c47f499fc732a77d0bd0b
+      internalID: -1756295839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 91
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b98d72f50ab13c4f9a5b5bfd11d27f6
+      internalID: 1615958551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_13
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 91
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5329c780352a80940a84a9399a61a981
+      internalID: -1589294533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 91
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e9aeeda769bc4cbf680a8171d10ab
+      internalID: 1228421149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 91
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0563717996625744b9909d193fdb8c44
+      internalID: 1889143765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 91
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b668c01c1dde5448f3a018cf29702a
+      internalID: -585772472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 91
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0.7275211, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1be44f781770142994cec7154f8409
+      internalID: 1795800497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 91
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc29d1c0580ec94fad4a10b10dc0447
+      internalID: -492278127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 91
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184a4016dab94cd4194b432090dbc356
+      internalID: 2105602164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 49
+        width: 32
+        height: 29
+      alignment: 9
+      pivot: {x: 0.43956488, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada5aacb7b8004047b38bd35439666d4
+      internalID: -320080790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 49
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c277d0ded502c8049b2e5acdf6712033
+      internalID: -1210322773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_22
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 49
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.67906696, y: 0.5165294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318d85763b5ef6f4f94dff286ff16051
+      internalID: -1259066599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 49
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5879059, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edc0fef19a9e0743a796b5eb6a5a4cd
+      internalID: -2017578771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 49
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: 0.44986114, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ceaaf3de14164ead01142b7c2e799
+      internalID: 699763837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_25
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 49
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4616285, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680b2e3aa0b45d548ae7fc4f6f2c4f22
+      internalID: -783100582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 49
+        width: 22
+        height: 26
+      alignment: 9
+      pivot: {x: 0.57813746, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b007234fdba5a6f40b4022abb8ba4c3f
+      internalID: -286981895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 49
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9128ba4e8d7a9458a17971467f2a9b
+      internalID: 1571250880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 49
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b9ab997c705941adebe2a189527f5
+      internalID: 1449430820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 49
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c680ab86f880ec4b8ce53ec018ebd97
+      internalID: 2036360526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 9
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c590ef5a63f00044844e137b4b579f7
+      internalID: 542904632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 9
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc40511a8942c74089e5a14ff6f42be
+      internalID: 1483383667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 9
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073de9d2e8a8f274cbc1f968e4e37946
+      internalID: -25301348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 9
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da92467f98c0b4887ed0b0fe8af357
+      internalID: 725268812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 9
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d26830b0ef14db4392d02351f398ed8
+      internalID: -77776995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_35
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43327de992f7c5d42b9c8abd6212c579
+      internalID: -265864711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 9
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdefd1c25ef01047954ddcb4d72b317
+      internalID: -1440253308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slightlyBetter_37
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 9
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ddb4ac4a44684d926e48255e236e8
+      internalID: -1273976125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      slightlyBetter_0: -1176393670
+      slightlyBetter_1: 1078426497
+      slightlyBetter_10: 2077972905
+      slightlyBetter_11: -1756295839
+      slightlyBetter_12: 1615958551
+      slightlyBetter_13: -1589294533
+      slightlyBetter_14: 1228421149
+      slightlyBetter_15: 1889143765
+      slightlyBetter_16: -585772472
+      slightlyBetter_17: 1795800497
+      slightlyBetter_18: -492278127
+      slightlyBetter_19: 2105602164
+      slightlyBetter_2: 1838806781
+      slightlyBetter_20: -320080790
+      slightlyBetter_21: -1210322773
+      slightlyBetter_22: -1259066599
+      slightlyBetter_23: -2017578771
+      slightlyBetter_24: 699763837
+      slightlyBetter_25: -783100582
+      slightlyBetter_26: -286981895
+      slightlyBetter_27: 1571250880
+      slightlyBetter_28: 1449430820
+      slightlyBetter_29: 2036360526
+      slightlyBetter_3: 1556949721
+      slightlyBetter_30: 542904632
+      slightlyBetter_31: 1483383667
+      slightlyBetter_32: -25301348
+      slightlyBetter_33: 725268812
+      slightlyBetter_34: -77776995
+      slightlyBetter_35: -265864711
+      slightlyBetter_36: -1440253308
+      slightlyBetter_37: -1273976125
+      slightlyBetter_4: 135060306
+      slightlyBetter_5: 1279499049
+      slightlyBetter_6: 458244354
+      slightlyBetter_7: -1143567716
+      slightlyBetter_8: 1970152670
+      slightlyBetter_9: 1192575548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
